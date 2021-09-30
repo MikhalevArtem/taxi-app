@@ -1,0 +1,8 @@
+.route-selection {
+  position: absolute;
+  left: 10px;
+  top: 15px;
+  z-index: 100;
+  width: 300px;
+  max-width: 40%;
+}
