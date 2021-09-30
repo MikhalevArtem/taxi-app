@@ -2,7 +2,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Paper, Grid, Slide } from "@material-ui/core";
 import car from "./assets/car.png";
-import backgroundImage from "../../../shared/images/background-city.jpg";
+import backgroundImage from "../../shared/images/background-city.jpg";
 
 const useStyles = makeStyles((theme) => ({
   bg: {

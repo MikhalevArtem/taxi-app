@@ -1,0 +1,8 @@
+.map-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.map-container {
+  flex-grow: 1;
+}
