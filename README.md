@@ -17,7 +17,7 @@
 Роутинг в приложении реализован с помощью react-router-dom
 
 ## Использование
-Приложение заеплоено на vercel: https://taxi-app-rho.vercel.app/map
+Приложение размещено на vercel: https://taxi-app-rho.vercel.app/map
 Данные для входа:
   login:test@test.com 
   password:123123
